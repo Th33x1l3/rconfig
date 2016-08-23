@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/Th33x1l3/rconfig.svg?branch=rconfig-windows)](https://travis-ci.org/Th33x1l3/rconfig)
-= RConfig
+{<img src="https://travis-ci.org/Th33x1l3/rconfig.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/Th33x1l3/rconfig]= RConfig
 
 The complete solution for Ruby Configuration Management. RConfig is a Ruby library that manages configuration within Ruby applications. It bridges the gap between yaml, xml, and key/value based properties files, by providing a centralized solution to handle application configuration from one location. It provides the simplicity of hash-based access, that Rubyists have come to know and love, supporting your configuration style of choice, while providing many new features, and an elegant API.
 

@@ -12,7 +12,3 @@ group :development do
   gem 'i18n'
 end
 
-group :test do
-  gem 'rake'
-end
-

@@ -11,3 +11,8 @@ group :development do
   gem 'jeweler', '> 1.6.4'
   gem 'i18n'
 end
+
+group :test do
+  gem 'rake'
+end
+

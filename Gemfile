@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
-gem 'activesupport', '~> 3.2', require: 'active_support'
-gem 'json', '> 1.8.1'
+gem 'activesupport', '> 3.2', require: 'active_support'
+gem 'json', '~>2.0.1'
 
 group :development do
   gem 'rake',    '~> 11.2'
